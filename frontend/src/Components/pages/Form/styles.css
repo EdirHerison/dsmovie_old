@@ -22,8 +22,13 @@
 }
 
 .dsmovie-card-image {
-    width: 100%;
-    border-radius:  8px 8px 0 0;
+    max-width: 200px;
+    border-radius: 0 0 0 0;
+    align-items: center;
+}
+
+.dsmovie-form-container h3{
+   text-align: center;
 }
 
 .dsmovie-card-bottom-container {

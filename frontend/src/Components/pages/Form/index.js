@@ -23,7 +23,7 @@ function Form(){
              </div>
         <div className="form-group dsmovie-form-group">
           <label htmlFor="score">Informe sua avaliação</label>
-          <select>
+          <select className='form-control' id="score">
               <option>1</option>
               <option>2</option>
               <option>3</option>
